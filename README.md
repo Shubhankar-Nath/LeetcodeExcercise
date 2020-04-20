@@ -7,3 +7,4 @@ This a repository of the solutions I made for Leetcode Excercises.
 - [x] 686. Repeated String Match
 - [x] 1030. Matrix Cell in distance order
 - [x] 1010. Pairs of Songs With Total Durations Divisible by 60
+- [x] 1248. Count number of nice subarrays
